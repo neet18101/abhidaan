@@ -1,0 +1,14 @@
+
+
+.Footers{
+border-radius: 50px;
+}
+.Logo_Design{ 
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.form-button button:hover{
+    background-color: white;
+    color: black;
+}
